@@ -1,7 +1,7 @@
 ### Hi there 👋
 ### Repositorio Flores Jhonny
 
-Proyecto Restaurant
+Proyecto Restaurant: consta de modulos de Pedidos, Facturación, Acceso, Ingresos, Reportes, Mantenimientos Categorias.
 
 Para su desarrollo se uso:
 
