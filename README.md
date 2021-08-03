@@ -4,6 +4,8 @@
 Proyecto Restaurant
 
 Para su desarrollo se uso:
+
 - Visual Studio
 
-- ⚡ Fun fact: Fue un proyecto realizado en el año 2016.
+- 🌱 I’m currently learning new technologies.
+- 💬 Ask me about how I started programming.
