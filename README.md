@@ -5,7 +5,7 @@ Proyecto Restaurant
 
 Para su desarrollo se uso:
 
-- Visual Studio
+- Visual Studio: Visual Basic .net
 
 🌱 I’m currently learning new technologies.
 
